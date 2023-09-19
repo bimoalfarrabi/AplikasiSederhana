@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">AplikasiSederhana</string>
+    <string name="androids_name">Nama Android</string>
+    <string name="description">Deskripsi</string>
+    <string name="release_date">Tanggal rilis</string>
+    <string name="profile">Profile</string>
+    <string name="about_name">Muhammad Bimo Habib Al-Farrabi</string>
+    <string name="about_email">bimoalfarrabi24@gmail.com</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="btn_share">Share</string>
+    <string name="tv_item_source">Sumber: Wikipedia</string>
+    <string-array name="data_name">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Quince Tart</item>
+        <item>Red Velvet Cake</item>
+        <item>Snow Cone</item>
+        <item>Tiramisu</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Android Cupcake is the third version of the Android operating system, developed by Google, being the successor to Android 1.1. It was released on April 27, 2009 and succeeded by Android Donut on September 15, 2009.
+            \n\nAndroid Cupcake introduces a new virtual keyboard, marking a departure from the physical keyboard present on the HTC Dream and support for stereo Bluetooth. Cupcake improved features to its in-built apps; videos can be directly uploaded to YouTube, as can photos to Picasa, the Gmail app supports batch actions, and the web browser was updated to include a new JavaScript engine and copy and pasting. Android Cupcake was the first major release of Android to use a confectionary-themed naming scheme, a scheme that continued until the release of Android 10 in 2019.
+            \n\nBy July 2010, Android Cupcake constituted less than a quarter of active devices running Android. User adoption of Android Cupcake began to decrease in the following months, with 4.7% of devices using Android Cupcake by January 2011. On June 30, 2017, Google ceased support for Android Market on Cupcake.</item>
+        <item>Android 1.6 Donut is the fourth version of the open source Android mobile operating system developed by Google. Among the more prominent features introduced with this update were added support for CDMA smartphones, additional screen sizes, a battery usage indicator, and a text-to-speech engine.
+            \n\nAfter the public release of Donut—its official dessert-themed code name, the convention employed by Google to designate major Android versions—carriers were quick to follow with its roll out to customers in the form of an over-the-air (OTA) update for compatible smartphones.
+            \n\nOn September 27, 2021, Google announced it would no longer allow signing in on Android devices that run Android 2.3.7 Gingerbread or older, requiring Android 3.0 (on tablets) or 4.0 (phone and tablets) or higher to log in.</item>
+        <item>Android Eclair is a codename of the Android mobile operating system developed by Google, the fifth operating system for Android and the second major release of Android. Eclair spans the versions 2.0.x and 2.1. Unveiled on October 26, 2009, Android Eclair builds upon the significant changes made in Android 1.6 "Android Donut". The first phone with Android Eclair was the Motorola Droid. Google ceased Android Market support for Android Eclair on June 30, 2017.</item>
+        <item>Android Froyo is the sixth version of Android and is a codename of the Android mobile operating system developed by Google, spanning versions between 2.2 and 2.2.3. Those versions are no longer supported. It was unveiled on May 20, 2010, during the Google I/O 2010 conference. Google ceased sign-in support with a Google account for Android Froyo to Android Gingerbread on September 27, 2021.
+            \n\nOne of the most prominent changes in the Froyo release was USB tethering and Wi-Fi hotspot functionality. Other changes include support for the Android Cloud to Device Messaging (C2DM) service, enabling push notifications, additional application speed improvements, implemented through JIT compilation and displayed within applications as top-of-the-screen banners</item>
+        <item>Android 2.3 Gingerbread is the seventh version of Android, a codename of the Android mobile operating system developed by Google and released in December 2010, for versions that are no longer supported. The Gingerbread release introduced support for near field communication (NFC)—used in mobile payment solutions—and Session Initiation Protocol (SIP)—used in VoIP internet telephones. The first phone with Android Gingerbread was the Nexus S.
+            \n\nGingerbread\'s user interface was refined, making it easier to master, faster to use, and more power-efficient. A simplified color scheme with a black background gave vividness and contrast to the notification bar, menus, and other user interface components. Improvements in menus and settings resulted in easier navigation and system control.
+            \n\nThe Nexus S smartphone, released in December 2010, was the first phone from the Google Nexus line that ran Gingerbread, and also the first one from the line with built-in NFC functionality.</item>
+        <item>Android Honeycomb is the codename for the third major version of Android, designed for devices with larger screen sizes, particularly tablets, however has been unofficially ported to the Nexus One. It is the eighth version of Android and is no longer supported.</item>
+        <item>Android Ice Cream Sandwich (or Android 4.0) is the fourth major version of the Android mobile operating system developed by Google. Unveiled on October 19, 2011, Android 4.0 builds upon the significant changes made by the tablet-only release Android Honeycomb, in an effort to create a unified platform for both smartphones and tablets. The first phone with Android Ice Cream Sandwich was Samsung Galaxy Nexus.
+            \n\nAndroid 4.0 was focused on simplifying and modernizing the overall Android experience around a new set of human interface guidelines. As part of these efforts, it introduced a new visual appearance codenamed "Holo", which is built around a cleaner, minimalist design, and a new default typeface named Roboto. It also introduced a number of other new features, including a refreshed home screen, near-field communication (NFC) support and the ability to "beam" content to another user using the technology, an updated web browser, a new contacts manager with social network integration, the ability to access the camera and control music playback from the lock screen, visual voicemail support, face recognition for device unlocking (Face Unlock), the ability to monitor and limit mobile data usage, and other internal improvements.
+            \n\nAndroid 4.0 received positive reviews by critics, who praised the cleaner, revamped appearance of the operating system in comparison to previous versions, along with its improved performance and functionality. However, critics still felt that some of Android 4.0\'s stock apps were still lacking in quality and functionality in comparison to third-party equivalents, and regarded some of the operating system\'s new features, particularly the "face unlock" feature, as being gimmicks.
+            \n\nAs of October 2022, statistics issued by Google indicate that 0.15% of all Android devices accessing Google Play run Ice Cream Sandwich.</item>
+        <item>Android Jelly Bean, or Android 4.1 is the codename given to the tenth version of the Android mobile operating system developed by Google, spanning three major point releases (versions 4.1 through 4.3.1). Among the devices that run Android 4.1 to 4.3 are the Nexus 7 (2012), Nexus 4, Nexus 10 and Nexus 7 (2013).
+            \n\nThe first of these three releases, 4.1, was unveiled at Google\'s I/O developer conference in June 2012. It focused on performance improvements designed to give the operating system a smoother and more responsive feel, improvements to the notification system allowing for expandable notifications with action buttons, and other internal changes. Two more releases were made under the Jelly Bean name in October 2012 and July 2013 respectively, including 4.2—which included further optimizations, multi-user support for tablets, lock screen widgets, quick settings, and screensavers, and 4.3—which contained further improvements and updates to the underlying Android platform. The first device with Android Jelly Bean was the 2012 Nexus 7.
+            \n\nAs of October 2022, 0.36% of Android devices run Jelly Bean. In July 2021, Google announced that Google Play Services would no longer support Jelly Bean after August of that year.</item>
+        <item>Android KitKat is the codename for the eleventh Android mobile operating system, representing release version 4.4. Unveiled on September 3, 2013, KitKat focused primarily on optimizing the operating system for improved performance on entry-level devices with limited resources. The first phone with Android KitKat was the Nexus 5.
+            \n\n As of October 2022, 1.39% of Android devices run KitKat. On July 24, 2023, Google announced that Google Play Services would no longer support KitKat in August of that year.</item>
+        <item>Android Lollipop (codenamed Android L during development) is the fifth major version of the Android mobile operating system developed by Google and the 12th version of Android, spanning versions between 5.0 and 5.1.1. Unveiled on June 25, 2014 at the Google I/O 2014 conference, it became available through official over-the-air (OTA) updates on November 12, 2014, for select devices that run distributions of Android serviced by Google (such as Nexus and Google Play edition devices). Its source code was made available on November 3, 2014. The first phone with Android Lollipop was the Nexus 6.
+            \n\nOne of the most prominent changes in the Lollipop release is a redesigned user interface built around a design language known as Material Design, which was made to retain a paper-like feel to the interface. Other changes include improvements to the notifications, which can be accessed from the lockscreen and displayed within applications as top-of-the-screen banners. Google also made internal changes to the platform, with the Android Runtime (ART) officially replacing Dalvik for improved application performance, and with changes intended to improve and optimize battery usage.
+            \n\nAs of October 2022, 0.41% of Android devices run Lollipop 5.0 (API 21) and 2.79% run Lollipop 5.1 (API 22) combined. However, this figure is misleading, as on tablets Android 5.1 is much more popular than it is on phones, being ranked 3rd of all Android versions at 8.98% when counting Android 7.0 and 7.1 Nougat separately. When market shares for versions 7.0 and 7.1 are combined, Nougat is more popular than Lollipop, at 11.04% on tablets, making Lollipop the fourth most popular version.</item>
+        <item>Android Marshmallow (codenamed Android M during development) is the sixth major version of the Android operating system developed by Google, being the successor to Android Lollipop. It was announced at Google I/O on May 28, 2015, and released the same day as a beta, before being officially released on September 29, 2015. It was succeeded by Android Nougat on August 22, 2016.
+            \n\nAndroid Marshmallow primarily focuses on improving the overall user experience of its predecessor. It introduced a new opt-in permissions architecture, new APIs for contextual assistants (first used by a new feature "Now on Tap" to provide context-sensitive search results), a new power management system that reduces background activity when a device is not being physically handled, native support for fingerprint recognition and USB-C connectors, the ability to migrate data and applications to a microSD card, and other internal changes.
+            \n\nAndroid Marshmallow was met by low adoption numbers, with 13.3% of Android devices running Marshmallow by July 2016. Usage of Marshmallow steadily increased since then, and by August 2017, 35.21% of Android devices ran Marshmallow, before receding. As of May 2023, 1.64% of Android devices ran Marshmallow. Security updates for Marshmallow ended in October 2017.</item>
+        <item>Android Nougat (codenamed Android N during development) is the seventh major version and 14th original version of the Android operating system. First released as an alpha test version on March 9, 2016, it was officially released on August 22, 2016, with Nexus devices being the first to receive the update. The LG V20 was the first smartphone released with Nougat.
+            \n\nNougat introduces notable changes to the operating system and its development platform, including the ability to display multiple apps on-screen at once in a split-screen view, support for inline replies to notifications, and an expanded Doze power-saving mode that restricts device functionality once the screen has been off for a period of time. Additionally, the platform switched to an OpenJDK-based Java environment and received support for the Vulkan graphics rendering API, and seamless system updates on supported devices.
+            \n\nNougat received positive reviews. The new app notification format received particular praise; while the multitasking interface was seen as a positive change, reviewers experienced that several apps were incompatible with the feature. Critics had mixed experiences with the Doze power-saving mode, but faster app installs and tweaks to the user interface were also reviewed positively.
+            \n\nAs of December 2022, 4.02% of devices ran Android Nougat, with 1.6% on 7.1.x and 2.42% on 7.0. Android Nougat went unsupported with no more security updates after October 2019.</item>
+        <item>Android Oreo (codenamed Android O during development) is the eighth major release and the 15th version of the Android mobile operating system. It was first released as an alpha quality developer preview in March 2017 and released to the public on August 21, 2017.
+            \n\nIt contains a number of major features, including notification grouping, picture-in-picture support for video, performance improvements, and battery usage optimization, and support for autofillers, Bluetooth 5, system-level integration with VoIP apps, wide color gamuts, and Wi-Fi Aware. Android Oreo also introduces two major platform features: Android Go – a software distribution of the operating system for low-end devices – and support for implementing a hardware abstraction layer.
+            \n\nAs of August 2023, Android Oreo (which has ceased receiving security updates as of October 2021) ran on a combined 4.36% of Android devices (1.07% on Android 8.0 and 3.21% on Android 8.1).</item>
+        <item>Android Pie (codenamed Android P during development), also known as Android 9 (API 28) is the ninth major release and the 16th version of the Android mobile operating system. It was first released as a developer preview on March 7, 2018, and was released publicly on August 6, 2018.
+            \n\nOn August 6, 2018, Google officially announced the final release of Android 9 under the title Pie, with the update initially available for current Google Pixel devices, and releases for Android One devices and others to follow "later this year". The Essential Phone was the first third-party Android device to receive an update to Pie, notably coming day-and-date with its final release. The Sony Xperia XZ3 was the first device with Android Pie pre-installed.
+            \n\nAs of July 2023, 7.56% of all Android devices ran Android Pie, whose final security update was released on January 4, 2022.</item>
+        <item>Android 10 (codenamed Android Q during development) is the tenth major release and the 17th version of the Android mobile operating system. It was first released as a developer preview on March 13, 2019, and was released publicly on September 3, 2019.
+            \n\nAndroid 10 was officially released on September 3, 2019, for supported Google Pixel devices, as well as the third-party Essential Phone and Redmi K20 Pro in selected markets. The OnePlus 7T was the first device with Android 10 pre-installed. In October 2019, it was reported that Google\'s certification requirements for Google Mobile Services will only allow Android 10-based builds to be approved after January 31, 2020.
+            \n\nAs of July 2023, 9.27% of Android devices (mobile and tablet) ran Android 10 (which has ceased receiving security updates in February), making it the 4th most common Android version.</item>
+        <item>Android 11 is the eleventh major release and 18th version of Android, the mobile operating system developed by the Open Handset Alliance led by Google. It was released on September 8, 2020. The first phone launched in Europe with Android 11 was the Vivo X51 5G and after its full stable release, the first phone in the world which came with Android 11 after Google Pixel 5 was OnePlus 8T. As of May 2023, Android 11 was the second most commonly used version of the Android OS with a share of 12.85 percent.</item>
+        <item>Android 12 is the twelfth major release and 19th version of Android, the mobile operating system developed by the Open Handset Alliance led by Google. The first beta was released on May 18, 2021. Android 12 was released publicly on October 4, 2021, through Android Open Source Project (AOSP) and was released to supported Google Pixel devices on October 19, 2021.
+            \n\nAs of July 2023, Android 12 was the 2nd most widely-used version of Android, with 20.6% of devices. The first phones to have Android 12 were the Google Pixel 6 and 6 Pro.</item>
+        <item>Android 13 is the thirteenth major release and the 20th version of Android, the mobile operating system developed by the Open Handset Alliance led by Google. It was released to the public and the Android Open Source Project (AOSP) on August 15, 2022. The first devices to ship with Android 13 were the Pixel 7 and 7 Pro.
+            \n\nAs of July 2023, 30.29% of Android devices ran Android 13, making it the most widely-used version of Android.</item>
+    </string-array>
+    <string-array name="data_release">
+        <item>April 27, 2009</item>
+        <item>September 15, 2009</item>
+        <item>October 27, 2009</item>
+        <item>October 27, 2009</item>
+        <item>December 6, 2010</item>
+        <item>February 22, 2011</item>
+        <item>October 18, 2011</item>
+        <item>July 9, 2012</item>
+        <item>October 31, 2013</item>
+        <item>November 4, 2014</item>
+        <item>October 2, 2015</item>
+        <item>August 22, 2016</item>
+        <item>August 21, 2017</item>
+        <item>August 6, 2018</item>
+        <item>September 3, 2019</item>
+        <item>September 8, 2020</item>
+        <item>October 4, 2021</item>
+        <item>August 15, 2022</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/cupcake</item>
+        <item>@drawable/donut</item>
+        <item>@drawable/froyo</item>
+        <item>@drawable/eclair</item>
+        <item>@drawable/gingerbread</item>
+        <item>@drawable/honeycomb</item>
+        <item>@drawable/ice_cream_sandwich</item>
+        <item>@drawable/jelly_bean</item>
+        <item>@drawable/kitkat</item>
+        <item>@drawable/lollipop</item>
+        <item>@drawable/marshmallow</item>
+        <item>@drawable/nougat</item>
+        <item>@drawable/oreo</item>
+        <item>@drawable/pie</item>
+        <item>@drawable/q</item>
+        <item>@drawable/r</item>
+        <item>@drawable/s</item>
+        <item>@drawable/t</item>
+    </integer-array>
+</resources>
